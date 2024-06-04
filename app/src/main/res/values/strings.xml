@@ -2,4 +2,7 @@
     <string name="app_name">Organi Doc</string>
     <string name="meus_arquivos">meus arquivos</string>
     <string name="menu_sanduiche">Menu sanduiche</string>
+    <string name="arquivos">Arquivos</string>
+    <string name="notificacoes">Notificações</string>
+    <string name="configuracoes">Configurações</string>
 </resources>

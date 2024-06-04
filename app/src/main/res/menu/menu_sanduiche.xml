@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item_arquivos"
+        android:actionLayout="@layout/menu_item_customizado"
+        android:icon="@drawable/ic_pasta"
+        android:title="@string/arquivos"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/item_favoritos"
+        android:actionLayout="@layout/menu_item_customizado"
+        android:icon="@drawable/ic_favorite"
+        android:title="@string/notificacoes"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/item_configuração"
+        android:actionLayout="@layout/menu_item_customizado"
+        android:icon="@drawable/ic_config"
+        android:title="@string/configuracoes"
+        app:showAsAction="ifRoom" />
+</menu>

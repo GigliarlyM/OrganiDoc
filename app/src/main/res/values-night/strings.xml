@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="meus_arquivos">meus arquivos</string>
+    <string name="notificacoes">Notificações</string>
+    <string name="configuracoes">Configurações</string>
 </resources>
